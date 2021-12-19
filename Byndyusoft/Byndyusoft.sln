@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Byndyusoft", "Byndyusoft.csproj", "{3B1FEB5B-2BA6-4CE8-9304-2ADF7E8786A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByndyusoftTests", "..\ByndyusoftTests\ByndyusoftTests.csproj", "{46D5802D-FE7F-41B8-9438-D465FA1CF02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1FEB5B-2BA6-4CE8-9304-2ADF7E8786A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1FEB5B-2BA6-4CE8-9304-2ADF7E8786A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1FEB5B-2BA6-4CE8-9304-2ADF7E8786A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1FEB5B-2BA6-4CE8-9304-2ADF7E8786A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D5802D-FE7F-41B8-9438-D465FA1CF02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D5802D-FE7F-41B8-9438-D465FA1CF02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D5802D-FE7F-41B8-9438-D465FA1CF02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D5802D-FE7F-41B8-9438-D465FA1CF02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219DBC5C-4CE4-4DD7-9FCB-D6B8A507851C}
+	EndGlobalSection
+EndGlobal
